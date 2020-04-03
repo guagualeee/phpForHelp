@@ -1,0 +1,8 @@
+.recipe {
+    background-color: rgb(178, 186, 187);
+    border: 20px solid rgb(81, 197, 243) ;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    font-family: sans-serif;
+  }
